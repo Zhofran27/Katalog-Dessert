@@ -29,7 +29,7 @@ Aplikasi Android native berbasis Java yang menampilkan katalog makanan penutup (
 
 ## Screenshot Preview
 <p>
-  <img width="230" height="500" alt="image" src="https://github.com/user-attachments/assets/620cf6da-c1de-4c4d-a9c8-76e259d097f3" />
+  <img width="230" height="500" alt="image" src="image.png" />
 </p>
 
 ## API yang Digunakan
